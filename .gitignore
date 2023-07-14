@@ -1,0 +1,32 @@
+# Archivos y carpetas generados por Visual Studio
+.vs/
+bin/
+obj/
+
+# Carpeta de dependencias
+packages/
+
+# Archivos de configuración local
+appsettings.Development.json
+appsettings.Production.json
+
+# Archivos de generación de documentación
+*.xml
+*.swp
+
+# Archivos de registro y caché
+*.log
+*.cache
+
+# Archivos de compilación
+*.exe
+*.dll
+*.pdb
+
+# Archivos temporales
+*.tmp
+*.bak
+*.cache
+
+# Carpeta de publicación
+publish/
